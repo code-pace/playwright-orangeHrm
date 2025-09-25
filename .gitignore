@@ -1,0 +1,35 @@
+node_modules/
+
+# Playwright test results and reports
+playwright-report/
+test-results/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# Compiled output
+/dist/
+/build/
+
+# Coverage
+coverage/
+
+# Misc
+*.tsbuildinfo
+
+# Ignore IDE files
+.idea/
+*.iml
+
+package-lock.json
