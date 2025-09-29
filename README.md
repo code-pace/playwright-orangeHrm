@@ -43,7 +43,6 @@ This project demonstrates advanced end-to-end (E2E) and API automation for the O
 ├── e2e/
 │   ├── pages/            # Playwright page objects (Login, Admin, Dashboard)
 │   └── tests/            # Playwright UI test specs
-├── cypress/              # (Legacy) Cypress tests for reference
 ├── .eslintrc.json        # ESLint config
 ├── .prettierrc           # Prettier config
 ├── playwright.config.ts  # Playwright config (baseURL, etc.)
